@@ -7,4 +7,5 @@
 4. [潜规则](./4.潜规则/study-note.md)
 5. [浪潮之巅](./5.浪潮之巅/study-note.md)
 6. [富爸爸穷爸爸](./6.富爸爸穷爸爸/study-note.md)
+7. [断舍离](./7.断舍离/study-note.md)
 
