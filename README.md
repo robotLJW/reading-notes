@@ -9,4 +9,5 @@
 6. [富爸爸穷爸爸](./6.富爸爸穷爸爸/study-note.md)
 7. [断舍离](./7.断舍离/study-note.md)
 8. [Morty指数投资](./8.Morty指数投资/study-note.md)
+9. [bodybuild](./9.bodybuilding/study-note.md)
 
