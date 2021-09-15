@@ -12,5 +12,5 @@
 9. [bodybuild](./9.bodybuilding/study-note.md)
 10. [MongoDB高手课](./10.MongoDB高手课/study-note.md)
 11. [手机摄影](./11.手机摄影/study-note.md)
-12. [掌控习惯](./12.掌控习惯/study-node.md)
+12. [掌控习惯](./12.掌控习惯/study-note.md)
 
