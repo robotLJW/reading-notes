@@ -13,6 +13,7 @@
 10. [MongoDB高手课](./10.MongoDB高手课/study-note.md)
 11. [手机摄影](./11.手机摄影/study-note.md)
 12. [掌控习惯](./12.掌控习惯/study-note.md)
+13. [Go进阶训练营](./13.go进阶训练营/study-note.md)
 
 **未来有时间可以看的书籍**
 
